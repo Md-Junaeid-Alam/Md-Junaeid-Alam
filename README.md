@@ -1,9 +1,9 @@
 # Hi there 👋, my name is Md Junaeid Alam
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/md-junaeid-alam-5a2955115/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/md-junaeid-alam-5a2955115/)](https://www.linkedin.com/in/md-junaeid-alam-5a2955115/))
 [![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)]([https://youtube.com](https://www.youtube.com/@3PoundsCodingWithJunaeid/videos))
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]([https://facebook.com/yourhandle](https://www.facebook.com/junaeid48))
-[![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white)]([https://medium.com/@yourhandle](https://medium.com/@md.junaeid.alam.se))
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]([[https://facebook.com/yourhandle](https://www.facebook.com/junaeid48)](https://www.facebook.com/junaeid48))
+[![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white)]([[https://medium.com/@yourhandle](https://www.facebook.com/junaeid48)](https://medium.com/@md.junaeid.alam.se))
 
 ## 🧑‍💻 About Me
 
