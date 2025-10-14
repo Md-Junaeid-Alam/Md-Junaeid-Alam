@@ -20,10 +20,8 @@ When I'm not coding, I enjoy 📚 reading, 🧠 learning AI, 🎯 mentoring othe
 ## 🔭 I'm currently working on
 
 <p align="left">
-  <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" alt="Developer Illustration" width="30"/>**Lead Technical Service Specialist** at [**SoftFlames Ventures LLC**](https://www.softflamesventures.com/) 🇺🇸
-</p>
-
-💼 **Lead Technical Service Specialist** at [**SoftFlames Ventures LLC**](https://www.softflamesventures.com/) 🇺🇸  
+  <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" alt="Developer Illustration" width="50"/>
+</p> **Lead Technical Service Specialist** at [**SoftFlames Ventures LLC**](https://www.softflamesventures.com/) 🇺🇸  
 🚀 Contributing to innovative solutions in **ASP.NET Core**, **Microservices**, **Angular**, **Azure**, and **Enterprise Architecture**.
 
 
