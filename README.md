@@ -18,12 +18,12 @@ When I'm not coding, I enjoy 📚 reading, 🧠 learning AI, 🎯 mentoring othe
   <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" alt="Developer Illustration" width="25"/>
 </p> 
 
- ## I'm currently working on
+ ## 💼 I'm currently working on
 
 
 
-💼 **Full Stack .NET Developer & Lead Technical Service Specialist** at [**SoftFlames Ventures LLC**](https://softflamesventures.com) 🇺🇸  
-🚀 Contributing to innovative solutions in **ASP.NET Core**, **Microservices**, **Angular**, **Azure**, and **Enterprise Architecture**.
+ **Full Stack .NET Developer & Lead Technical Service Specialist** at [**SoftFlames Ventures LLC**](https://softflamesventures.com) 🇺🇸  
+Contributing to innovative solutions in **ASP.NET Core**, **Microservices**, **Angular**, **Azure**, and **Enterprise Architecture**.
 
 
 ---
