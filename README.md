@@ -41,7 +41,10 @@ When I'm not coding, I enjoy 📚 reading, 🧠 learning AI, 🎯 mentoring othe
 - **Frontend:** Angular 16+, TypeScript, RxJS, Tailwind  
 - **Cloud / DevOps:** Azure, GitHub Actions, Docker  
 - **DB:** MS SQL Server, PostgreSQL, Oracle, MySql
-
+  ![Angular](https://img.shields.io/badge/ANGULAR-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ---
 
 ## 🤝 I've contributed to
