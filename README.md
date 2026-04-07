@@ -21,8 +21,6 @@ When I'm not coding, I enjoy 📚 reading, 🧠 learning AI, 🎯 mentoring othe
 Contributing to innovative solutions in **ASP.NET Core**, **Microservices**, **Angular**, **Azure**, and **Enterprise Architecture**.
 
 
----
-
 ## 🛠 Tech Stack
 
 - **Backend Development:**  
