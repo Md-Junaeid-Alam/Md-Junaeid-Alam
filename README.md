@@ -25,17 +25,6 @@ Contributing to innovative solutions in **ASP.NET Core**, **Microservices**, **A
 
 ## 🛠 Tech Stack
 
-- **Backend:**
-  ![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
-  ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20CORE-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-  ![.NET 8](https://img.shields.io/badge/.NET%208-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
-  ![Rest Web API](https://img.shields.io/badge/WEB%20API-0f6cbd?style=for-the-badge&logo=.net&logoColor=white)
-  ![EF Core](https://img.shields.io/badge/.NET%208-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
-- **Frontend:** Angular 16+, TypeScript, RxJS, Tailwind  
-- **Cloud / DevOps:** Azure, GitHub Actions, Docker  
-- **DB:** MS SQL Server, PostgreSQL, Oracle, MySql
----
-
 - **Backend Development:**  
   ![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
   ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20CORE-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
