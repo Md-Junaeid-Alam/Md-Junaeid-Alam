@@ -23,7 +23,7 @@ Contributing to innovative solutions in **ASP.NET Core**, **Microservices**, **A
 
 ---
 
-## 🧰 Tech Stack
+## 🛠 Tech Stack
 
 - **Backend:** ASP.NET Core 8–10, C#, EF Core, REST API, Clean Architecture  
 - **Frontend:** Angular 16+, TypeScript, RxJS, Tailwind  
