@@ -9,7 +9,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=MdJunaeidAlam&style=flat-square&color=blue)
 
 I'm from the USA 🇺🇸, currently in the Eastern Standard Time Zone 🌎.
-I'm a passionate **Software Engineer** specializing in **ASP.NET Core**, **Angular**, **Azure**, and **modern web development**.  
+I'm a passionate **Software Engineer** specializing in **C#**, **ASP.NET Core**, **Angular**, **Azure**, **event driven, distributed systems**, **Microservices Architecture** and **AI augmented modern web development**. 
 
 When I'm not coding, I enjoy 📚 reading, 🧠 learning AI, 🎯 mentoring others, and working on community tech initiatives.
 
@@ -28,6 +28,25 @@ Contributing to innovative solutions in **ASP.NET Core**, **Microservices**, **A
   ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20CORE-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
   ![.NET 8](https://img.shields.io/badge/.NET%208-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
   ![Web API](https://img.shields.io/badge/WEB%20API-0f6cbd?style=for-the-badge&logo=.net&logoColor=white)
+  ![Microservices](https://img.shields.io/badge/Microservices-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  
+<br>
+
+- **Cross platform:**  
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+  ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
+  
+<br>
+
+**Certificate Management & Secure Backend Services:**  
+![SSL/TLS](https://img.shields.io/badge/SSL%2FTLS-006400?style=for-the-badge&logo=letsencrypt&logoColor=white)
+![Self-Signed Certs](https://img.shields.io/badge/Self--Signed%20Certs-4B0082?style=for-the-badge&logo=openssl&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![OAuth 2.0](https://img.shields.io/badge/OAuth%202.0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
+![OpenID Connect](https://img.shields.io/badge/OpenID%20Connect-F78C40?style=for-the-badge&logo=openid&logoColor=white)
+![Secret & Key Management](https://img.shields.io/badge/Secret%20%26%20Key%20Management-0078D4?style=for-the-badge&logo=azurekeyvault&logoColor=white)
+![mTLS](https://img.shields.io/badge/mTLS-8B0000?style=for-the-badge&logo=openssl&logoColor=white)
   
 <br>
 
@@ -68,7 +87,7 @@ Contributing to innovative solutions in **ASP.NET Core**, **Microservices**, **A
   ![Jira](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
   ![Agile](https://img.shields.io/badge/AGILE-0288D1?style=for-the-badge&logo=scrumalliance&logoColor=white)
 ---
-
+  
 ## 🌱 I'm currently learning
 
 - 🤖 Generative AI with .NET & Azure  
