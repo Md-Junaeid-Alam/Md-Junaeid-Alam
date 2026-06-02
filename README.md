@@ -48,7 +48,7 @@ Contributing to innovative solutions in **ASP.NET Core**, **Microservices**, **A
 ![Secret & Key](https://img.shields.io/badge/Secret%20%26%20Key%20Management-0078D4?style=for-the-badge&logo=azurekeyvault&logoColor=white)
 ![mTLS](https://img.shields.io/badge/mTLS-8B0000?style=for-the-badge&logo=openssl&logoColor=white)
   
-<br>
+<br> 
 
 - **Frontend Development:**  
   ![Angular](https://img.shields.io/badge/ANGULAR-DD0031?style=for-the-badge&logo=angular&logoColor=white)
