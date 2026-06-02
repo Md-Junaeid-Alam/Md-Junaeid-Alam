@@ -9,7 +9,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=MdJunaeidAlam&style=flat-square&color=blue)
 
 I'm from the USA 🇺🇸, currently in the Eastern Standard Time Zone 🌎.
-I'm a passionate **Software Engineer** specializing in **C#**, **ASP.NET Core**, **Angular**, **Azure**, **event driven, distributed systems**, **Microservices Architecture** and **AI augmented modern web development**. 
+I'm a passionate **Software Engineer** specializing in **C#**, **ASP.NET Core**, **Angular**, **Azure**, **event driven distributed systems**, **Microservices Architecture** and **AI augmented modern web development**. 
 
 When I'm not coding, I enjoy 📚 reading, 🧠 learning AI, 🎯 mentoring others, and working on community tech initiatives.
 
@@ -78,6 +78,13 @@ Contributing to innovative solutions in **ASP.NET Core**, **Microservices**, **A
   ![Microservices](https://img.shields.io/badge/MICROSERVICES-1f6feb?style=for-the-badge&logo=docker&logoColor=white)
   ![Clean Architecture](https://img.shields.io/badge/CLEAN%20ARCHITECTURE-444444?style=for-the-badge&logo=googlescholar&logoColor=white)
   ![CQRS](https://img.shields.io/badge/CQRS-2e7d32?style=for-the-badge&logo=codefactor&logoColor=white)
+
+  <br>
+
+- **Distributed messaging technologies:**  
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
   
 <br>
 
