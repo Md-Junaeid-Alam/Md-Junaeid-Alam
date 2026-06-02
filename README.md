@@ -39,7 +39,7 @@ Contributing to innovative solutions in **ASP.NET Core**, **Microservices**, **A
   
 <br>
 
-**Certificate Management & Secure Backend Services:**  
+- **Certificate Management & Secure Backend Services:**  
 ![SSL/TLS](https://img.shields.io/badge/SSL%2FTLS-006400?style=for-the-badge&logo=letsencrypt&logoColor=white)
 ![Self-Signed Certs](https://img.shields.io/badge/Self--Signed%20Certs-4B0082?style=for-the-badge&logo=openssl&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
