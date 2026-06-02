@@ -41,11 +41,11 @@ Contributing to innovative solutions in **ASP.NET Core**, **Microservices**, **A
 
 - **Certificate Management & Secure Backend Services:**  
 ![SSL/TLS](https://img.shields.io/badge/SSL%2FTLS-006400?style=for-the-badge&logo=letsencrypt&logoColor=white)
-![Self-Signed Certs](https://img.shields.io/badge/Self--Signed%20Certs-4B0082?style=for-the-badge&logo=openssl&logoColor=white)
+![Self Signed](https://img.shields.io/badge/Self--Signed%20Certs-4B0082?style=for-the-badge&logo=openssl&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![OAuth 2.0](https://img.shields.io/badge/OAuth%202.0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
-![OpenID Connect](https://img.shields.io/badge/OpenID%20Connect-F78C40?style=for-the-badge&logo=openid&logoColor=white)
-![Secret & Key Management](https://img.shields.io/badge/Secret%20%26%20Key%20Management-0078D4?style=for-the-badge&logo=azurekeyvault&logoColor=white)
+![OpenID](https://img.shields.io/badge/OpenID%20Connect-F78C40?style=for-the-badge&logo=openid&logoColor=white)
+![Secret & Key](https://img.shields.io/badge/Secret%20%26%20Key%20Management-0078D4?style=for-the-badge&logo=azurekeyvault&logoColor=white)
 ![mTLS](https://img.shields.io/badge/mTLS-8B0000?style=for-the-badge&logo=openssl&logoColor=white)
   
 <br>
